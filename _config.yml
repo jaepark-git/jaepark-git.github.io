@@ -12,9 +12,9 @@ title                    : "Jae Park"
 title_separator          : "-"
 name                     : &name "Jae Eun Park"
 description              : &description "Ph.D. Student in Hospitality and Tourism Management @ Purdue University"
-url                      : https://hoinjung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jaepark-git.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HoinJung/hoinjung.github.io"
+repository               : "jaepark-git/hoinjung.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "HoinJung/hoinjung.github.io"
 author:
   # Biographic information
   avatar           : "hoin.jpeg"
-  name             : "Hoin Jung"
+  name             : "Jae Eun Park"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Electrical & Computer Engineering"
   location         : "West Lafayette, IN, USA"
