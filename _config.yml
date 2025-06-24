@@ -21,12 +21,12 @@ repository               : "https://jaepark-git.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hoin.jpeg"
+  avatar           : "Headshot_Jae.jpeg"
   name             : "Jae Eun Park"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Electrical & Computer Engineering"
-  location         : "West Lafayette, IN, USA"
+  bio              : "Ph.D. Student in Hospitality and Tourism Management"
   employer         : "Purdue University"
+  location         : "West Lafayette, IN, USA"
   uri              : # URL
   email            : "park1538@purdue.edu" 
 
